@@ -1,0 +1,13 @@
+capitulo 17 - paleta de cores do site
+
+#C5EBD6
+#83E1AD
+#3DDC84
+#2FA866
+#063D1E
+
+fontes
+
+bebas neue
+idroid
+arial

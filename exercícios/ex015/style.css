@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+    background-color: chartreuse;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+h1{
+    background-color: black;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: blue ;
+}
